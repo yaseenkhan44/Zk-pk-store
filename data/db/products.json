@@ -1,0 +1,1289 @@
+[
+  {
+    "id": 1,
+    "name": "ZK Classic Minimalist Black Quartz",
+    "price": 999,
+    "oldPrice": 1599,
+    "discountBadge": "Save 38%",
+    "category": "Casual Watches",
+    "brand": "ZK Classic",
+    "image": "/images/watch-01.jpg",
+    "gallery": [
+      "/images/watch-01.jpg",
+      "/images/watch-02.jpg",
+      "/images/watch_gold.jpg"
+    ],
+    "sku": "ZK-999-01",
+    "stock": 27,
+    "isAvailable": true,
+    "shortDescription": "Ultra-sleek black dial with fine silver indices and comfortable faux leather strap. Perfect daily wear for university and office.",
+    "description": "The ZK Classic Minimalist is designed for understated elegance. Featuring an ultra-slim 8mm profile, Japanese quartz movement, and an anti-scratch mineral crystal, it gives an executive look at an unbeatable Pakistani budget.",
+    "features": [
+      "Slim 8mm case profile fits smoothly under shirt cuffs",
+      "High accuracy Japanese quartz movement",
+      "Soft breathable stitched leather strap",
+      "Lightweight ergonomic zinc alloy casing",
+      "Comes with ZK official warranty card & gift pouch"
+    ],
+    "specs": {
+      "movement": "Precision Japanese Quartz",
+      "caseDiameter": "40mm",
+      "caseThickness": "8mm",
+      "strapMaterial": "Comfort Faux Leather (Stitched)",
+      "waterResistance": "3ATM Daily Splash Resistant",
+      "glassType": "Hardened Mineral Crystal",
+      "warranty": "7-Day Checking & Replacement Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 42,
+    "isBestSeller": true,
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "ZK Royal Silver Link Clean Dial",
+    "price": 999,
+    "oldPrice": 1499,
+    "discountBadge": "Save 33%",
+    "category": "Men's Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-02.jpg",
+    "gallery": [
+      "/images/watch-02.jpg",
+      "/images/watch-03.jpg",
+      "/images/watch_silver.jpg"
+    ],
+    "sku": "ZK-999-02",
+    "stock": 19,
+    "isAvailable": true,
+    "shortDescription": "Polished stainless steel finish with clean white dial and folding safety clasp. Durable and lustrous.",
+    "description": "A staple in every Pakistani gentleman's wardrobe, this silver link timepiece pairs seamlessly with shalwar kameez and formal suits. Robust metal links with an adjustable clasp.",
+    "features": [
+      "Fold-over safety clasp with push-button release",
+      "Sunray white dial with high-contrast hands",
+      "Adjustable link bracelet (tools provided upon request)",
+      "Corrosion-resistant electroplated alloy case"
+    ],
+    "specs": {
+      "movement": "Quartz Caliber 2035",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Polished Stainless Steel Links",
+      "waterResistance": "3ATM Splashproof",
+      "glassType": "Hardlex Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.7,
+    "reviewsCount": 36,
+    "isBestSeller": true
+  },
+  {
+    "id": 3,
+    "name": "ZK Stealth Matte Black Digital Sport",
+    "price": 999,
+    "oldPrice": 1650,
+    "discountBadge": "Save 40%",
+    "category": "Sports Watches",
+    "brand": "ZK Tactical",
+    "image": "/images/watch-03.jpg",
+    "gallery": [
+      "/images/watch-03.jpg",
+      "/images/watch-04.jpg",
+      "/images/watch_sport.jpg"
+    ],
+    "sku": "ZK-999-03",
+    "stock": 35,
+    "isAvailable": true,
+    "shortDescription": "Rugged military-inspired digital watch with EL backlight, stopwatch, daily alarm, and dual timezone.",
+    "description": "Built for active workouts, gym sessions, and outdoor commutes in Pakistan. Features shock-resistant resin armor, high-illumination LED nightlight, and a 1/100s precision stopwatch.",
+    "features": [
+      "Bright green EL backlight for dark night visibility",
+      "1/100 second stopwatch and countdown timer",
+      "Hourly chime & snooze alarm",
+      "Flexible, sweat-proof TPU silicone wristband"
+    ],
+    "specs": {
+      "movement": "Digital Multi-Function Quartz",
+      "caseDiameter": "44mm",
+      "strapMaterial": "Shock-Proof Silicone",
+      "waterResistance": "5ATM (Rain & Handwash Safe)",
+      "glassType": "High-Transparency Acrylic",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 58,
+    "isBestSeller": true
+  },
+  {
+    "id": 4,
+    "name": "ZK Heritage Tan Leather Vintage Watch",
+    "price": 999,
+    "oldPrice": 1550,
+    "discountBadge": "Save 36%",
+    "category": "Casual Watches",
+    "brand": "ZK Classic",
+    "image": "/images/watch-04.jpg",
+    "gallery": [
+      "/images/watch-04.jpg",
+      "/images/watch-01.jpg",
+      "/images/watch_leather.jpg"
+    ],
+    "sku": "ZK-999-04",
+    "stock": 22,
+    "isAvailable": true,
+    "shortDescription": "Vintage-styled cream dial paired with warm tan brown leather strap and antique-tinted hands.",
+    "description": "Classic British aesthetic tailored for Pakistani casual fashion. Looks striking with denim, polos, or traditional kurtas. Delivers dependable timekeeping with refined vintage flair.",
+    "features": [
+      "Retro cream sunburst dial with Arabic numerals",
+      "Aged tan textured strap with reinforced stitching",
+      "Zero-glare coated mineral crystal",
+      "Lightweight on the wrist for all-day comfort"
+    ],
+    "specs": {
+      "movement": "Analog Quartz",
+      "caseDiameter": "40mm",
+      "strapMaterial": "Vintage Tan Vegan Leather",
+      "waterResistance": "3ATM Splashproof",
+      "glassType": "Mineral Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 29
+  },
+  {
+    "id": 5,
+    "name": "ZK Urban Navy Blue Mesh Watch",
+    "price": 999,
+    "oldPrice": 1450,
+    "discountBadge": "Save 31%",
+    "category": "Casual Watches",
+    "brand": "ZK Precision",
+    "image": "/images/watch-05.jpg",
+    "gallery": [
+      "/images/watch-05.jpg",
+      "/images/watch-02.jpg",
+      "/images/watch_gold.jpg"
+    ],
+    "sku": "ZK-999-05",
+    "stock": 14,
+    "isAvailable": true,
+    "shortDescription": "Deep navy blue face with a breathable magnetic Milanese mesh band. Easy infinite size adjustment.",
+    "description": "Features a modern magnetic clasp that wraps around your wrist to the exact millimetre fit. The rich deep blue dial reflects ambient light gracefully.",
+    "features": [
+      "Magnetic sliding clasp fits all wrist sizes without tools",
+      "Stainless steel woven mesh band does not pull wrist hair",
+      "Minimalist 2-hand layout with metallic hour dots",
+      "Ultra-thin profile"
+    ],
+    "specs": {
+      "movement": "Slim Quartz Movement",
+      "caseDiameter": "39mm",
+      "strapMaterial": "Milanese Stainless Steel Mesh",
+      "waterResistance": "3ATM",
+      "glassType": "Hardened Mineral Glass",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.6,
+    "reviewsCount": 21
+  },
+  {
+    "id": 6,
+    "name": "ZK Executive Date Display Stainless Watch",
+    "price": 1199,
+    "oldPrice": 1850,
+    "discountBadge": "Save 35%",
+    "category": "Men's Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-06.jpg",
+    "gallery": [
+      "/images/watch-06.jpg",
+      "/images/watch-01.jpg",
+      "/images/watch_silver.jpg"
+    ],
+    "sku": "ZK-1199-06",
+    "stock": 25,
+    "isAvailable": true,
+    "shortDescription": "Silver stainless steel case with working 3 o'clock calendar date window and luminescent hands.",
+    "description": "An exceptional value for working professionals. Features an automatic date change window at 3 o'clock, luminous hands that glow in the dark, and an IP-plated stainless steel bracelet.",
+    "features": [
+      "Functional date magnifying bubble window",
+      "Luminous phosphor hands for low-light legibility",
+      "Durable dual-button butterfly clasp",
+      "Brushed and polished steel link contrast"
+    ],
+    "specs": {
+      "movement": "Quartz Movement with Date Calendar",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Stainless Steel",
+      "waterResistance": "3ATM Splash Resistant",
+      "glassType": "Mineral Crystal with Cyclops Lens",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 47,
+    "isBestSeller": true
+  },
+  {
+    "id": 7,
+    "name": "ZK Tactical Camo Green Field Watch",
+    "price": 1199,
+    "oldPrice": 1799,
+    "discountBadge": "Save 33%",
+    "category": "Sports Watches",
+    "brand": "ZK Tactical",
+    "image": "/images/watch-07.jpg",
+    "gallery": [
+      "/images/watch-07.jpg",
+      "/images/watch-03.jpg",
+      "/images/watch_sport.jpg"
+    ],
+    "sku": "ZK-1199-07",
+    "stock": 30,
+    "isAvailable": true,
+    "shortDescription": "Heavy-duty army olive green sports watch with digital display, compass bezel ring, and 50m water rating.",
+    "description": "Designed for rugged terrain, bikers, and athletes. Built with a shock-absorbing polymer chassis that shrugs off drops, vibrations, and heavy downpours.",
+    "features": [
+      "Reinforced bezel protects glass from direct impacts",
+      "Multi-function digital display with countdown & lap timer",
+      "Breathable sweat-groove silicone strap",
+      "High-contrast negative LCD screen"
+    ],
+    "specs": {
+      "movement": "Rugged Tactical Digital Module",
+      "caseDiameter": "45mm",
+      "strapMaterial": "Army Olive TPU Polymer",
+      "waterResistance": "5ATM (Swim & Rain Proof)",
+      "glassType": "Shatter-Resistant Polycarbonate",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 39
+  },
+  {
+    "id": 8,
+    "name": "ZK Obsidian All-Black Milanese Watch",
+    "price": 1199,
+    "oldPrice": 1900,
+    "discountBadge": "Save 37%",
+    "category": "Casual Watches",
+    "brand": "ZK Precision",
+    "image": "/images/watch-08.jpg",
+    "gallery": [
+      "/images/watch-08.jpg",
+      "/images/watch-04.jpg",
+      "/images/watch_leather.jpg"
+    ],
+    "sku": "ZK-1199-08",
+    "stock": 18,
+    "isAvailable": true,
+    "shortDescription": "Total black-out finish with matte dial, gunmetal hands, and breathable stainless steel mesh strap.",
+    "description": "Minimalist stealth styling at its best. An absolute favorite for evenings and casual outings. The deep PVD black plating resists everyday scuffs and discoloration.",
+    "features": [
+      "Deep PVD black electroplating that stays dark",
+      "Monochrome gunmetal baton indices",
+      "Ultra-fine mesh band that sits silky smooth on skin",
+      "Quick-release sliding clasp"
+    ],
+    "specs": {
+      "movement": "Japanese Quartz",
+      "caseDiameter": "40mm",
+      "strapMaterial": "PVD Coated Black Stainless Steel Mesh",
+      "waterResistance": "3ATM",
+      "glassType": "Anti-Scratch Mineral Glass",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.7,
+    "reviewsCount": 33
+  },
+  {
+    "id": 9,
+    "name": "ZK Rose Gold Roman Dial Dress Watch",
+    "price": 1199,
+    "oldPrice": 1750,
+    "discountBadge": "Save 31%",
+    "category": "Luxury Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-09.jpg",
+    "gallery": [
+      "/images/watch-09.jpg",
+      "/images/watch_gold.jpg",
+      "/images/watch-01.jpg"
+    ],
+    "sku": "ZK-1199-09",
+    "stock": 21,
+    "isAvailable": true,
+    "shortDescription": "Elegant rose gold bezel with traditional Roman numeral markers and glossy brown alligator-grain strap.",
+    "description": "Brings sophisticated European horology flair into formal Pakistani events. The rose gold casing complements traditional sherwanis, waistcoats, and formal suiting.",
+    "features": [
+      "Warm rose gold PVD vacuum plating",
+      "Embossed Roman numerals on textured guilloche dial",
+      "Alligator-embossed genuine leather-feel strap",
+      "Solid stainless steel case back"
+    ],
+    "specs": {
+      "movement": "High Torque Quartz",
+      "caseDiameter": "40mm",
+      "strapMaterial": "Embossed Grain Faux Leather",
+      "waterResistance": "3ATM Splashproof",
+      "glassType": "Hardlex Mineral",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 27
+  },
+  {
+    "id": 10,
+    "name": "ZK Aviator Pilot Chrono-Style Watch",
+    "price": 1199,
+    "oldPrice": 1850,
+    "discountBadge": "Save 35%",
+    "category": "Chronograph Watches",
+    "brand": "ZK Chronos",
+    "image": "/images/watch-10.jpg",
+    "gallery": [
+      "/images/watch-10.jpg",
+      "/images/watch-02.jpg",
+      "/images/watch_silver.jpg"
+    ],
+    "sku": "ZK-1199-10",
+    "stock": 16,
+    "isAvailable": true,
+    "shortDescription": "Aviation-inspired cockpit dial with decorative triple sub-dials and contrasting red chronograph second hand.",
+    "description": "Captures the bold, masculine styling of luxury aviation chronographs. High-contrast white flight markings against a deep charcoal dial make it instantly recognizable.",
+    "features": [
+      "Triple sub-dial aesthetic with high-precision timekeeping",
+      "Aviation cockpit triangle marker at 12 o'clock",
+      "Dual push-button crown accents",
+      "Stitched heavy-duty canvas/leather hybrid band"
+    ],
+    "specs": {
+      "movement": "Quartz Movement (Decorative Sub-Dials)",
+      "caseDiameter": "42mm",
+      "strapMaterial": "Reinforced Leather Strap",
+      "waterResistance": "3ATM",
+      "glassType": "Anti-Reflective Mineral Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.7,
+    "reviewsCount": 31
+  },
+  {
+    "id": 11,
+    "name": "ZK Monaco Racing Blue Dual-Dial Watch",
+    "price": 1499,
+    "oldPrice": 2299,
+    "discountBadge": "Save 35%",
+    "category": "Chronograph Watches",
+    "brand": "ZK Chronos",
+    "image": "/images/watch-11.jpg",
+    "gallery": [
+      "/images/watch-11.jpg",
+      "/images/watch_sport.jpg",
+      "/images/watch-03.jpg"
+    ],
+    "sku": "ZK-1499-11",
+    "stock": 24,
+    "isAvailable": true,
+    "shortDescription": "Striking sunburst blue face with tachymeter scale bezel, date calendar, and heavy solid link bracelet.",
+    "description": "Inspired by the adrenaline of motorsport. Features a rich sunburst royal blue dial that shifts under different Pakistani light conditions, flanked by a polished stainless steel bezel.",
+    "features": [
+      "Working calendar date wheel with quick-set crown",
+      "Dynamic sunburst metallic blue dial finish",
+      "Solid link bracelet with micro-adjustment holes",
+      "Luminous tipped hands for nighttime checking"
+    ],
+    "specs": {
+      "movement": "Miyota-Grade Japanese Quartz",
+      "caseDiameter": "42mm",
+      "strapMaterial": "316L Stainless Steel Bracelet",
+      "waterResistance": "3ATM Splashproof",
+      "glassType": "Hardened Mineral Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 52,
+    "isBestSeller": true,
+    "isFeatured": true
+  },
+  {
+    "id": 12,
+    "name": "ZK Grand Classique Gold Fluted Bezel",
+    "price": 1499,
+    "oldPrice": 2400,
+    "discountBadge": "Save 38%",
+    "category": "Luxury Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-12.jpg",
+    "gallery": [
+      "/images/watch-12.jpg",
+      "/images/watch_gold.jpg",
+      "/images/watch-04.jpg"
+    ],
+    "sku": "ZK-1499-12",
+    "stock": 17,
+    "isAvailable": true,
+    "shortDescription": "Iconic fluted bezel in sparkling gold tone with jubilee style five-piece link bracelet and date window.",
+    "description": "The quintessential luxury watch aesthetic celebrated across Pakistan. Features a precision coin-edge fluted bezel that catches ambient lights from every angle, matched with a comfortable jubilee link bracelet.",
+    "features": [
+      "Precision cut fluted coin-edge bezel",
+      "Jubilee 5-link flexible metal bracelet",
+      "Magnified date cyclops window at 3 o'clock",
+      "Folding clasp with safety latch"
+    ],
+    "specs": {
+      "movement": "Japanese Quartz Caliber",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Gold-Tone Stainless Steel",
+      "waterResistance": "3ATM",
+      "glassType": "Mineral Crystal with Cyclops Magnifier",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 44
+  },
+  {
+    "id": 13,
+    "name": "ZK G-Force Shock Resistant Dual Display",
+    "price": 1499,
+    "oldPrice": 2199,
+    "discountBadge": "Save 32%",
+    "category": "Sports Watches",
+    "brand": "ZK Tactical",
+    "image": "/images/watch-13.jpg",
+    "gallery": [
+      "/images/watch-13.jpg",
+      "/images/watch-03.jpg",
+      "/images/watch_sport.jpg"
+    ],
+    "sku": "ZK-1499-13",
+    "stock": 29,
+    "isAvailable": true,
+    "shortDescription": "Heavy-duty dual analog & digital display with world time, alarm, hourly beep, and 50m water resistance.",
+    "description": "The ultimate rugged companion for Pakistani bikers and outdoors enthusiasts. Combines analog hands with digital LCD sub-screens, delivering the best of both timekeeping worlds.",
+    "features": [
+      "Dual time: Synchronized analog hands + digital screen",
+      "High shock-resistance rubber casing",
+      "Luminescent hands plus bright LED night illumination",
+      "Stopwatch, countdown, 4 daily alarms, and calendar"
+    ],
+    "specs": {
+      "movement": "Dual Analog-Digital Movement",
+      "caseDiameter": "48mm",
+      "strapMaterial": "Heavy-Duty Resin Silicone",
+      "waterResistance": "5ATM (Water & Dust Resistant)",
+      "glassType": "Impact-Resistant Hardlex",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 63,
+    "isBestSeller": true
+  },
+  {
+    "id": 14,
+    "name": "ZK Sapphire Minimalist Ultra-Thin",
+    "price": 1499,
+    "oldPrice": 2350,
+    "discountBadge": "Save 36%",
+    "category": "Men's Watches",
+    "brand": "ZK Precision",
+    "image": "/images/watch-14.jpg",
+    "gallery": [
+      "/images/watch-14.jpg",
+      "/images/watch-01.jpg",
+      "/images/watch_silver.jpg"
+    ],
+    "sku": "ZK-1499-14",
+    "stock": 20,
+    "isAvailable": true,
+    "shortDescription": "Scandi-style clean dial with 6.5mm ultra-thin casing, sapphire-coated crystal, and fine leather band.",
+    "description": "Engineered for gentlemen who appreciate pure simplicity. Zero clutter, razor-thin indices, and a case so slim you will forget you are wearing it until someone compliments it.",
+    "features": [
+      "Ultra-thin 6.5mm profile slips under tight cuffs",
+      "Scratch-resistant sapphire coating",
+      "Breathable genuine top-grain feel leather",
+      "Engraved brushed steel case back"
+    ],
+    "specs": {
+      "movement": "Slim-Line Japanese Quartz",
+      "caseDiameter": "40mm",
+      "caseThickness": "6.5mm",
+      "strapMaterial": "Refined Italian-Style Leather",
+      "waterResistance": "3ATM",
+      "glassType": "Sapphire Coated Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 38
+  },
+  {
+    "id": 15,
+    "name": "ZK Nautica Diver Green Bezel Watch",
+    "price": 1499,
+    "oldPrice": 2250,
+    "discountBadge": "Save 33%",
+    "category": "Men's Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-15.jpg",
+    "gallery": [
+      "/images/watch-15.jpg",
+      "/images/watch_gold.jpg",
+      "/images/watch-02.jpg"
+    ],
+    "sku": "ZK-1499-15",
+    "stock": 15,
+    "isAvailable": true,
+    "shortDescription": "Celebrated green ceramic-look rotating bezel with black dial, luminous geometric markers, and oyster strap.",
+    "description": "Channeling maritime excellence. The vibrant emerald green bezel contrasted with a jet-black dial creates an unmistakable commanding look on any wrist.",
+    "features": [
+      "Unidirectional rotating diver-style bezel with ratchet clicks",
+      "Super-luminous circular and rectangular hour markers",
+      "Solid stainless steel oyster style bracelet",
+      "Screw-down style crown protection shoulders"
+    ],
+    "specs": {
+      "movement": "High Torque Quartz",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Stainless Steel Oyster Link",
+      "waterResistance": "3ATM",
+      "glassType": "High-Grade Hardlex",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.7,
+    "reviewsCount": 35
+  },
+  {
+    "id": 16,
+    "name": "ZK Masterpiece Skeleton Dial Mechanical-Look",
+    "price": 1999,
+    "oldPrice": 2999,
+    "discountBadge": "Save 33%",
+    "category": "Luxury Watches",
+    "brand": "ZK Horology",
+    "image": "/images/watch-16.jpg",
+    "gallery": [
+      "/images/watch-16.jpg",
+      "/images/watch-01.jpg",
+      "/images/watch_gold.jpg"
+    ],
+    "sku": "ZK-1999-16",
+    "stock": 22,
+    "isAvailable": true,
+    "shortDescription": "Intricate open-heart skeleton dial revealing mechanical gear aesthetics with Roman numerals and steel case.",
+    "description": "A conversation starter wherever you go. The hollowed-out dial showcases mechanical horology gears in motion with exposed bridge plates and gleaming gold/silver accents.",
+    "features": [
+      "Hollow skeleton dial exposing intricate gear details",
+      "Exhibition glass on front and rear",
+      "Reinforced mineral glass protects against everyday scuffs",
+      "Comes in custom ZK luxury presentation box"
+    ],
+    "specs": {
+      "movement": "Skeleton Mechanical Quartz Hybrid",
+      "caseDiameter": "42mm",
+      "strapMaterial": "Genuine Leather Strap",
+      "waterResistance": "3ATM Splashproof",
+      "glassType": "Hardened Mineral Glass",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 51,
+    "isNewArrival": true,
+    "isFeatured": true
+  },
+  {
+    "id": 17,
+    "name": "ZK Speedmaster Chronograph Triple Sub-Dial",
+    "price": 1999,
+    "oldPrice": 3200,
+    "discountBadge": "Save 38%",
+    "category": "Chronograph Watches",
+    "brand": "ZK Chronos",
+    "image": "/images/watch-17.jpg",
+    "gallery": [
+      "/images/watch-17.jpg",
+      "/images/watch_silver.jpg",
+      "/images/watch-02.jpg"
+    ],
+    "sku": "ZK-1999-17",
+    "stock": 19,
+    "isAvailable": true,
+    "shortDescription": "Working chronograph stopwatch with 1/10s, 60s, and 60min sub-dials, date window, and solid steel band.",
+    "description": "Fully functional chronograph timekeeping. Press the top pusher to start the stopwatch sub-dial, and bottom pusher to snap it back to zero. High-precision engineering in heavy stainless steel.",
+    "features": [
+      "100% Fully functional chronograph sub-dials (stopwatch)",
+      "Independent 24-hour sub-dial & date window",
+      "Solid stainless steel casing with brushed satin finish",
+      "Luminous hands for nighttime visibility"
+    ],
+    "specs": {
+      "movement": "Full Functional Chronograph Quartz",
+      "caseDiameter": "43mm",
+      "strapMaterial": "Solid 316L Stainless Steel",
+      "waterResistance": "3ATM",
+      "glassType": "Anti-Scratch Mineral Glass",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 68,
+    "isBestSeller": true
+  },
+  {
+    "id": 18,
+    "name": "ZK Commander Black Titanium-Finish Field Watch",
+    "price": 1999,
+    "oldPrice": 2850,
+    "discountBadge": "Save 30%",
+    "category": "Sports Watches",
+    "brand": "ZK Tactical",
+    "image": "/images/watch-18.jpg",
+    "gallery": [
+      "/images/watch-18.jpg",
+      "/images/watch_sport.jpg",
+      "/images/watch-03.jpg"
+    ],
+    "sku": "ZK-1999-18",
+    "stock": 17,
+    "isAvailable": true,
+    "shortDescription": "Matte gunmetal case with sapphire-coated crystal, high-contrast numerals, and quick-drying tactical strap.",
+    "description": "Engineered to withstand the demanding conditions of Pakistani road commutes, biking, and outdoor travel. The anti-reflective dial provides instant time reading at any angle.",
+    "features": [
+      "Tactical matte gunmetal finish reflects no glare",
+      "Sapphire-coated scratch-resistant crystal",
+      "Reinforced nylon ballistic weave strap",
+      "5ATM water rating handles showers and storms"
+    ],
+    "specs": {
+      "movement": "Heavy-Duty Japanese Quartz",
+      "caseDiameter": "42mm",
+      "strapMaterial": "Ballistic Tactical Nylon",
+      "waterResistance": "5ATM (Water & Sweat Proof)",
+      "glassType": "Sapphire Coated Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 42
+  },
+  {
+    "id": 19,
+    "name": "ZK President Two-Tone Gold & Silver Watch",
+    "price": 1999,
+    "oldPrice": 3100,
+    "discountBadge": "Save 36%",
+    "category": "Luxury Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-19.jpg",
+    "gallery": [
+      "/images/watch-19.jpg",
+      "/images/watch_gold.jpg",
+      "/images/watch-04.jpg"
+    ],
+    "sku": "ZK-1999-19",
+    "stock": 14,
+    "isAvailable": true,
+    "shortDescription": "Luxurious two-tone gold and silver link bracelet with diamond-style hour markers and day-date display.",
+    "description": "Radiates prestige. The harmonious union of polished gold plating and brushed silver links makes it the premier choice for Pakistani weddings, Eid gatherings, and corporate boardrooms.",
+    "features": [
+      "Twin display: Full day-of-week at 12 and date at 3",
+      "Sparkling faceted crystal hour markers",
+      "Two-tone PVD gold electroplating that won't peel",
+      "Double-locking deployment clasp"
+    ],
+    "specs": {
+      "movement": "Day-Date Precision Quartz",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Two-Tone Stainless Steel",
+      "waterResistance": "3ATM",
+      "glassType": "Hardlex Mineral with Day/Date Magnifier",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 49,
+    "isBestSeller": true
+  },
+  {
+    "id": 20,
+    "name": "ZK SmartPulse Bluetooth Calling Watch",
+    "price": 1999,
+    "oldPrice": 3300,
+    "discountBadge": "Save 39%",
+    "category": "Smart Watches",
+    "brand": "ZK Tech",
+    "image": "/images/watch-20.jpg",
+    "gallery": [
+      "/images/watch-20.jpg",
+      "/images/watch-01.jpg",
+      "/images/watch_sport.jpg"
+    ],
+    "sku": "ZK-1999-20",
+    "stock": 32,
+    "isAvailable": true,
+    "shortDescription": "1.85-inch HD full touch screen with direct Bluetooth phone calls, heart rate tracker, and Urdu notifications.",
+    "description": "Stay connected without taking your phone out in traffic. Answer phone calls directly via the built-in microphone and speaker, read WhatsApp messages, and track your daily fitness steps.",
+    "features": [
+      "Make & answer Bluetooth calls on your wrist",
+      "WhatsApp, SMS, and incoming call alerts in Urdu/English",
+      "Heart rate, SpO2 blood oxygen, and sleep monitoring",
+      "3-5 days normal battery life with magnetic USB charging"
+    ],
+    "specs": {
+      "movement": "Smart Micro-Processor Realtek",
+      "caseDiameter": "44mm",
+      "strapMaterial": "Skin-Friendly Silicone",
+      "waterResistance": "IP67 Splash & Sweat Proof",
+      "glassType": "2.5D Curved Tempered Glass",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 75,
+    "isBestSeller": true
+  },
+  {
+    "id": 21,
+    "name": "ZK Royal Chrono Gold Precision Edition",
+    "price": 3499,
+    "oldPrice": 4999,
+    "discountBadge": "Save 30%",
+    "category": "Chronograph Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-21.jpg",
+    "gallery": [
+      "/images/watch-21.jpg",
+      "/images/watch_gold.jpg",
+      "/images/watch-02.jpg"
+    ],
+    "sku": "ZK-3499-21",
+    "stock": 12,
+    "isAvailable": true,
+    "shortDescription": "Full functional chronograph with genuine 18K tone PVD plating, sapphire glass, and micro-engraved dial.",
+    "description": "An elite chronograph crafted for discerning collectors. Features micro-textured sub-dials, working stopwatches, a heavy solid steel case weighing over 140g, and pure sapphire crystal.",
+    "features": [
+      "Working multi-register chronograph movement",
+      "Pure sapphire crystal with scratch-proof guarantee",
+      "18K vacuum PVD plating with anti-tarnish coating",
+      "Heavyweight solid stainless steel case (142g)"
+    ],
+    "specs": {
+      "movement": "Full Function Multi-Register Chronograph",
+      "caseDiameter": "43mm",
+      "strapMaterial": "Solid 316L Surgical Stainless Steel",
+      "waterResistance": "5ATM (50 Meters)",
+      "glassType": "Genuine Sapphire Crystal",
+      "warranty": "7-Day Checking & 6-Month Movement Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 39,
+    "isFeatured": true
+  },
+  {
+    "id": 22,
+    "name": "ZK Automatic Self-Winding Open-Heart",
+    "price": 3499,
+    "oldPrice": 5200,
+    "discountBadge": "Save 33%",
+    "category": "Luxury Watches",
+    "brand": "ZK Horology",
+    "image": "/images/watch-22.jpg",
+    "gallery": [
+      "/images/watch-22.jpg",
+      "/images/watch-01.jpg",
+      "/images/watch_silver.jpg"
+    ],
+    "sku": "ZK-3499-22",
+    "stock": 10,
+    "isAvailable": true,
+    "shortDescription": "True mechanical self-winding automatic movement that charges with your hand motion. No battery needed.",
+    "description": "Experience pure horology. Powered entirely by kinetic energy of your wrist, the oscillating rotor winds the mainspring automatically. See the balance wheel pulsing through the front open-heart window.",
+    "features": [
+      "Zero battery required: 100% mechanical self-winding automatic",
+      "40-hour power reserve with transparent display case back",
+      "Gliding smooth sweep second hand (no ticking)",
+      "Handmade genuine Italian leather strap"
+    ],
+    "specs": {
+      "movement": "21-Jewel Automatic Self-Winding Movement",
+      "caseDiameter": "42mm",
+      "strapMaterial": "Genuine Top-Grain Cowhide Leather",
+      "waterResistance": "5ATM",
+      "glassType": "Hardened Sapphire-Coated Crystal",
+      "warranty": "7-Day Checking & 6-Month Movement Warranty"
+    },
+    "rating": 5,
+    "reviewsCount": 46,
+    "isNewArrival": true
+  },
+  {
+    "id": 23,
+    "name": "ZK Aquaracer Blue Ceramic Bezel Automatic",
+    "price": 3499,
+    "oldPrice": 4899,
+    "discountBadge": "Save 29%",
+    "category": "Men's Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-23.jpg",
+    "gallery": [
+      "/images/watch-23.jpg",
+      "/images/watch_sport.jpg",
+      "/images/watch-03.jpg"
+    ],
+    "sku": "ZK-3499-23",
+    "stock": 15,
+    "isAvailable": true,
+    "shortDescription": "Real ceramic scratch-proof rotating bezel with sunray deep ocean blue dial and heavy oyster bracelet.",
+    "description": "Built for marine performance and luxury presence. The scratch-proof ceramic bezel retains its lustrous shine forever, while the luminous markers provide vivid glow even in dark movie theaters.",
+    "features": [
+      "High-tech mirror-polished ceramic bezel",
+      "Grade-A Swiss Super-LumiNova luminescence on hands & markers",
+      "Glide-lock style micro-adjustable clasp",
+      "Reinforced heavy link solid construction"
+    ],
+    "specs": {
+      "movement": "High-Beat Precision Caliber",
+      "caseDiameter": "42mm",
+      "strapMaterial": "Solid 316L Stainless Steel",
+      "waterResistance": "5ATM",
+      "glassType": "Sapphire Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 37
+  },
+  {
+    "id": 24,
+    "name": "ZK Grand Tourbillon-Look Dual-Time Luxury",
+    "price": 3499,
+    "oldPrice": 5100,
+    "discountBadge": "Save 31%",
+    "category": "Luxury Watches",
+    "brand": "ZK Horology",
+    "image": "/images/watch-24.jpg",
+    "gallery": [
+      "/images/watch-24.jpg",
+      "/images/watch_leather.jpg",
+      "/images/watch-04.jpg"
+    ],
+    "sku": "ZK-3499-24",
+    "stock": 8,
+    "isAvailable": true,
+    "shortDescription": "Exquisite tourbillon-style exposed cage with sun/moon 24h phase indicator and dual time zones.",
+    "description": "Horological grandeur at its finest. Features an animated day/night celestial sun & moon disc that rotates across 24 hours, paired with an exposed rotating cage balance wheel.",
+    "features": [
+      "Celestial Sun & Moon phase complication",
+      "Dual time zone sub-dial for international travelers",
+      "Exposed balance cage mechanism",
+      "Plush padded crocodile embossed genuine leather"
+    ],
+    "specs": {
+      "movement": "Complication Mechanical Quartz Movement",
+      "caseDiameter": "43mm",
+      "strapMaterial": "Padded Crocodile-Grain Genuine Leather",
+      "waterResistance": "3ATM",
+      "glassType": "Domed Scratch-Resistant Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 28
+  },
+  {
+    "id": 25,
+    "name": "ZK Pro-Max AMOLED Calling Smartwatch",
+    "price": 3499,
+    "oldPrice": 5499,
+    "discountBadge": "Save 36%",
+    "category": "Smart Watches",
+    "brand": "ZK Tech",
+    "image": "/images/watch-25.jpg",
+    "gallery": [
+      "/images/watch-25.jpg",
+      "/images/watch-01.jpg",
+      "/images/watch_sport.jpg"
+    ],
+    "sku": "ZK-3499-25",
+    "stock": 21,
+    "isAvailable": true,
+    "shortDescription": "Stunning 2.04-inch AMOLED display with Always-On screen, wireless fast charger, and metal alloy frame.",
+    "description": "The pinnacle of smart wearables in Pakistan. Features a vibrant AMOLED display with deep blacks and infinite contrast, full Bluetooth calling, voice assistant, and 100+ sports modes.",
+    "features": [
+      "2.04-inch AMOLED screen with Always-On Display (AOD)",
+      "Wireless magnetic fast charging puck included",
+      "Stainless zinc-alloy case with ceramic back",
+      "AI Voice assistant, calculator, games & Pakistan weather"
+    ],
+    "specs": {
+      "movement": "Dual-Core Smart Processor with AMOLED",
+      "caseDiameter": "46mm",
+      "strapMaterial": "Dual Straps Included (Silicone + Metal)",
+      "waterResistance": "IP68 Water & Dust Proof",
+      "glassType": "Sapphire-Coated Gorilla Glass",
+      "warranty": "7-Day Checking & 6-Month Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 54,
+    "isBestSeller": true
+  },
+  {
+    "id": 26,
+    "name": "ZK Cosmograph Daytona Rainbow Bezel Luxury",
+    "price": 4599,
+    "oldPrice": 6999,
+    "discountBadge": "Save 34%",
+    "category": "Luxury Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-26.jpg",
+    "gallery": [
+      "/images/watch-26.jpg",
+      "/images/watch_gold.jpg",
+      "/images/watch-02.jpg"
+    ],
+    "sku": "ZK-4599-26",
+    "stock": 7,
+    "isAvailable": true,
+    "shortDescription": "Ultra-luxurious baguettes-cut gemstone rainbow bezel with fully operational chronograph and rose gold case.",
+    "description": "The crown jewel of statement timepieces. Hand-set with sparkling gradient baguette crystals around the bezel, this show-stopping chronograph commands attention in VIP events and weddings.",
+    "features": [
+      "Gradient rainbow crystal baguette bezel craftsmanship",
+      "100% Fully working chronograph with triple pushers",
+      "Heavyweight 160g solid rose gold PVD alloy construction",
+      "Oysterlock safety clasp with Easylink extension"
+    ],
+    "specs": {
+      "movement": "Premium Caliber Working Chronograph",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Solid Rose-Gold PVD Stainless Steel",
+      "waterResistance": "5ATM",
+      "glassType": "Pure Sapphire Crystal with AR Coating",
+      "warranty": "7-Day Checking & 1-Year Movement Warranty"
+    },
+    "rating": 5,
+    "reviewsCount": 31,
+    "isFeatured": true
+  },
+  {
+    "id": 27,
+    "name": "ZK Grand Royal Oak Octagonal Luxury Watch",
+    "price": 4599,
+    "oldPrice": 6799,
+    "discountBadge": "Save 32%",
+    "category": "Luxury Watches",
+    "brand": "ZK Horology",
+    "image": "/images/watch-27.jpg",
+    "gallery": [
+      "/images/watch-27.jpg",
+      "/images/watch_silver.jpg",
+      "/images/watch-03.jpg"
+    ],
+    "sku": "ZK-4599-27",
+    "stock": 9,
+    "isAvailable": true,
+    "shortDescription": "Iconic octagonal bezel with 8 hexagonal screws, tapisserie waffle dial, and integrated tapered steel bracelet.",
+    "description": "Arguably the most famous silhouette in modern luxury watch history. Features hand-finished vertical brush strokes on the bezel edges, perfectly mirrored chamfers, and an integrated tapered link bracelet.",
+    "features": [
+      "Geometrical octagonal bezel with 8 recessed screws",
+      "Grande Tapisserie textured waffle pattern dial",
+      "Seamlessly integrated bracelet that flows with wrist curve",
+      "Butterfly deployment clasp with double safety pushers"
+    ],
+    "specs": {
+      "movement": "High-Beat Precision Quartz Caliber",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Integrated 316L Stainless Steel Bracelet",
+      "waterResistance": "5ATM",
+      "glassType": "Scratch-Proof Sapphire Glass",
+      "warranty": "7-Day Checking & 1-Year Movement Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 43,
+    "isBestSeller": true
+  },
+  {
+    "id": 28,
+    "name": "ZK Submariner 100M Professional Automatic",
+    "price": 4599,
+    "oldPrice": 6500,
+    "discountBadge": "Save 29%",
+    "category": "Men's Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-28.jpg",
+    "gallery": [
+      "/images/watch-28.jpg",
+      "/images/watch_gold.jpg",
+      "/images/watch-01.jpg"
+    ],
+    "sku": "ZK-4599-28",
+    "stock": 11,
+    "isAvailable": true,
+    "shortDescription": "True mechanical automatic movement with ceramic 120-click rotating bezel, cyclops date, and screw-down crown.",
+    "description": "The gold standard of diver watches. Fitted with a real mechanical self-winding automatic engine that requires zero batteries ever. Heavy solid 316L stainless steel with a ceramic bezel.",
+    "features": [
+      "Smooth sweeping second hand driven by automatic mechanical gears",
+      "Real ceramic bezel with platinum-dusted engraved markers",
+      "Screw-down water tight crown with rubber gaskets",
+      "Glidelock clasp allows on-the-fly length adjustment"
+    ],
+    "specs": {
+      "movement": "Automatic Mechanical Self-Winding Engine",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Surgical Grade 316L Steel",
+      "waterResistance": "10ATM (100 Meters Water Tight)",
+      "glassType": "Sapphire Crystal with Anti-Reflective Undercoating",
+      "warranty": "7-Day Checking & 1-Year Movement Warranty"
+    },
+    "rating": 5,
+    "reviewsCount": 57,
+    "isBestSeller": true
+  },
+  {
+    "id": 29,
+    "name": "ZK Nautical Yacht Chronograph Rose Gold",
+    "price": 4599,
+    "oldPrice": 6800,
+    "discountBadge": "Save 32%",
+    "category": "Chronograph Watches",
+    "brand": "ZK Chronos",
+    "image": "/images/watch-29.jpg",
+    "gallery": [
+      "/images/watch-29.jpg",
+      "/images/watch_sport.jpg",
+      "/images/watch-04.jpg"
+    ],
+    "sku": "ZK-4599-29",
+    "stock": 8,
+    "isAvailable": true,
+    "shortDescription": "Rose gold case with matte black ceramic bezel, high-comfort rubber oysterflex strap, and precision chrono.",
+    "description": "Combines maritime sportiness with pure luxury. The flexible elastomer oysterflex strap features inner longitudinal cushion ridges that keep the watch stable on your wrist during hot Pakistani summers.",
+    "features": [
+      "Oysterflex style high-density breathable rubber strap",
+      "Matte black sandblasted ceramic relief bezel",
+      "Full working stopwatch chronometer dials",
+      "Triple-locking waterproof crown system"
+    ],
+    "specs": {
+      "movement": "Precision Chronograph Caliber",
+      "caseDiameter": "42mm",
+      "strapMaterial": "High-Performance Elastomer / Rose Gold Clasp",
+      "waterResistance": "5ATM",
+      "glassType": "Double-AR Sapphire Crystal",
+      "warranty": "7-Day Checking & 1-Year Movement Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 34
+  },
+  {
+    "id": 30,
+    "name": "ZK Heritage Celestial Tourbillon Automatic",
+    "price": 4599,
+    "oldPrice": 7200,
+    "discountBadge": "Save 36%",
+    "category": "Luxury Watches",
+    "brand": "ZK Horology",
+    "image": "/images/watch-30.jpg",
+    "gallery": [
+      "/images/watch-30.jpg",
+      "/images/watch_leather.jpg",
+      "/images/watch-02.jpg"
+    ],
+    "sku": "ZK-4599-30",
+    "stock": 6,
+    "isAvailable": true,
+    "shortDescription": "Museum-grade automatic timepiece with genuine tourbillon aesthetic, exhibition sapphire back, and alligator strap.",
+    "description": "A triumph of artisanal horology. Designed for collectors who seek rare sophistication. Transparent front and back exhibition cases let you observe the beating mechanical heart and rotor.",
+    "features": [
+      "True mechanical automatic winding rotor with Geneva stripes",
+      "Exposed 6 o'clock flywheel mimicking a high-end tourbillon",
+      "Dual sapphire crystal on dial front and rear caseback",
+      "Hand-stitched genuine calfskin leather with deployment buckle"
+    ],
+    "specs": {
+      "movement": "Artisan Automatic Mechanical Movement",
+      "caseDiameter": "43mm",
+      "strapMaterial": "Top-Grade Calfskin Alligator Texture",
+      "waterResistance": "5ATM",
+      "glassType": "Dual Front & Back Sapphire Crystals",
+      "warranty": "7-Day Checking & 1-Year Movement Warranty"
+    },
+    "rating": 5,
+    "reviewsCount": 26,
+    "isFeatured": true
+  },
+  {
+    "id": 31,
+    "name": "ZK Ultra-Smart Titan 49mm Titanium-Look",
+    "price": 2499,
+    "oldPrice": 3899,
+    "discountBadge": "Save 36%",
+    "category": "Smart Watches",
+    "brand": "ZK Tech",
+    "image": "/images/watch-31.jpg",
+    "gallery": [
+      "/images/watch-31.jpg",
+      "/images/watch-01.jpg",
+      "/images/watch_sport.jpg"
+    ],
+    "sku": "ZK-2499-31",
+    "stock": 26,
+    "isAvailable": true,
+    "shortDescription": "49mm rugged aerospace case with orange action button, high-resolution screen, Bluetooth calls, and compass.",
+    "description": "Inspired by extreme expedition smartwatches. Features a massive 49mm ruggedized case, raised bezel to guard the screen, customizable orange action button, and clear wireless phone calls.",
+    "features": [
+      "Clear Bluetooth calls with noise-reduction microphone",
+      "Emergency siren, flashlight mode, and live compass",
+      "Includes 2 straps: Trail Loop + Ocean Wave Silicone",
+      "Wireless puck fast charger with 4-6 days endurance"
+    ],
+    "specs": {
+      "movement": "Smart AI Microprocessor",
+      "caseDiameter": "49mm",
+      "strapMaterial": "Dual Straps (Fabric Trail Loop + Silicone)",
+      "waterResistance": "IP68 Water, Sweat & Dust Proof",
+      "glassType": "Explosion-Proof Tempered Glass",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 82,
+    "isBestSeller": true
+  },
+  {
+    "id": 32,
+    "name": "ZK Carbon Phantom Stealth Chronograph",
+    "price": 2499,
+    "oldPrice": 3650,
+    "discountBadge": "Save 31%",
+    "category": "Chronograph Watches",
+    "brand": "ZK Tactical",
+    "image": "/images/watch-32.jpg",
+    "gallery": [
+      "/images/watch-32.jpg",
+      "/images/watch_sport.jpg",
+      "/images/watch-03.jpg"
+    ],
+    "sku": "ZK-2499-32",
+    "stock": 18,
+    "isAvailable": true,
+    "shortDescription": "Carbon-fiber patterned dial with matte black stainless steel casing, working chronograph, and red accents.",
+    "description": "Sleek, aerodynamic, and aggressively styled. The textured carbon weave dial reflects light like high-performance racing supercars, matched with tactical matte black steel links.",
+    "features": [
+      "Real carbon weave texture dial with 3 sub-dial registers",
+      "Matte black PVD coating resistant to scratches",
+      "Date window at 4:30 with instant quick-adjustment",
+      "Heavyweight solid link feel"
+    ],
+    "specs": {
+      "movement": "Full Functional Chronograph",
+      "caseDiameter": "43mm",
+      "strapMaterial": "Black PVD 316L Stainless Steel",
+      "waterResistance": "5ATM (Water & Rain Proof)",
+      "glassType": "Anti-Scratch Mineral Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 45
+  },
+  {
+    "id": 33,
+    "name": "ZK Royal Datejust Silver & Gold Fluted",
+    "price": 2499,
+    "oldPrice": 3800,
+    "discountBadge": "Save 34%",
+    "category": "Luxury Watches",
+    "brand": "ZK Royal",
+    "image": "/images/watch-33.jpg",
+    "gallery": [
+      "/images/watch-33.jpg",
+      "/images/watch_gold.jpg",
+      "/images/watch-02.jpg"
+    ],
+    "sku": "ZK-2499-33",
+    "stock": 16,
+    "isAvailable": true,
+    "shortDescription": "Premium fluted bezel with champagne gold dial, Roman numeral hour markers, and heavy jubilee link bracelet.",
+    "description": "The quintessential celebratory watch for Pakistani weddings and gatherings. The sunray champagne dial shimmers under ballroom lighting, surrounded by precision-cut fluted edges.",
+    "features": [
+      "Precision cut reflective coin fluted bezel",
+      "Champagne gold dial with applied Roman numerals",
+      "Solid five-link jubilee bracelet with hidden clasp",
+      "Magnified date cyclops bubble at 3 o'clock"
+    ],
+    "specs": {
+      "movement": "High Precision Japanese Quartz",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Two-Tone Stainless Steel Jubilee Link",
+      "waterResistance": "3ATM",
+      "glassType": "Hardened Mineral with Date Cyclops",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 53,
+    "isBestSeller": true
+  },
+  {
+    "id": 34,
+    "name": "ZK Heritage Open-Heart Leather Dress Watch",
+    "price": 2499,
+    "oldPrice": 3700,
+    "discountBadge": "Save 32%",
+    "category": "Casual Watches",
+    "brand": "ZK Classic",
+    "image": "/images/watch-34.jpg",
+    "gallery": [
+      "/images/watch-34.jpg",
+      "/images/watch_leather.jpg",
+      "/images/watch-04.jpg"
+    ],
+    "sku": "ZK-2499-34",
+    "stock": 14,
+    "isAvailable": true,
+    "shortDescription": "Exposed pulsing mechanical wheel at 7 o'clock, deep midnight blue dial, and rich mahogany brown leather.",
+    "description": "Harmonizes mechanical fascination with timeless executive charm. The deep midnight blue dial pairs flawlessly with formal navy blazers and traditional Pakistani festive attire.",
+    "features": [
+      "Open-heart aperture showcasing mechanical pulsation",
+      "Midnight blue sunray dial with polished silver dagger hands",
+      "Mahogany brown top-stitched genuine leather strap",
+      "Stainless steel tang buckle with ZK laser engraving"
+    ],
+    "specs": {
+      "movement": "Open-Heart Mechanical Quartz Caliber",
+      "caseDiameter": "41mm",
+      "strapMaterial": "Genuine Stitched Leather",
+      "waterResistance": "3ATM",
+      "glassType": "Domed Scratch-Resistant Hardlex",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.8,
+    "reviewsCount": 39,
+    "isNewArrival": true
+  },
+  {
+    "id": 35,
+    "name": "ZK Expedition Field Chrono Desert Khaki",
+    "price": 2499,
+    "oldPrice": 3750,
+    "discountBadge": "Save 33%",
+    "category": "Sports Watches",
+    "brand": "ZK Tactical",
+    "image": "/images/watch-35.jpg",
+    "gallery": [
+      "/images/watch-35.jpg",
+      "/images/watch_sport.jpg",
+      "/images/watch-01.jpg"
+    ],
+    "sku": "ZK-2499-35",
+    "stock": 20,
+    "isAvailable": true,
+    "shortDescription": "Desert sand tactical field watch with triple chronograph dials, date calendar, and heavy-duty canvas strap.",
+    "description": "Built for long adventures, northern Pakistan tours, and daily commutes. Features high-visibility oversized Arabic numerals and a weather-proof reinforced desert khaki canvas strap.",
+    "features": [
+      "Working multi-dial chronograph stopwatch with split timing",
+      "Desert khaki military aesthetic with black ion-plated case",
+      "Heavy-duty washable canvas strap with leather reinforcement",
+      "Super-luminous dial markers for nocturnal excursions"
+    ],
+    "specs": {
+      "movement": "Full Functional Military Chronograph",
+      "caseDiameter": "43mm",
+      "strapMaterial": "Reinforced Tactical Canvas & Leather",
+      "waterResistance": "5ATM (Rain & Dust Tight)",
+      "glassType": "Anti-Scratch Hardlex Crystal",
+      "warranty": "7-Day Checking Warranty"
+    },
+    "rating": 4.9,
+    "reviewsCount": 41,
+    "isFeatured": true
+  }
+]

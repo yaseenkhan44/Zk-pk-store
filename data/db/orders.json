@@ -1,0 +1,26 @@
+[
+  {
+    "customerName": "Tariq Mahmood",
+    "phone": "03111089742",
+    "address": "House 45, Street 2, Gulberg III",
+    "city": "Lahore",
+    "items": [
+      {
+        "productId": 1,
+        "productName": "ZK Classic Minimalist Black Quartz",
+        "productImage": "/images/watch-01.jpg",
+        "price": 999,
+        "quantity": 1,
+        "total": 999
+      }
+    ],
+    "subtotal": 999,
+    "shippingFee": 199,
+    "total": 1198,
+    "paymentMethod": "Cash on Delivery",
+    "id": "adf05c54-2c13-4322-91bf-f963762d6518",
+    "orderNumber": "ZK-1001",
+    "status": "Pending",
+    "createdAt": "2026-10-07T16:41:11.914Z"
+  }
+]

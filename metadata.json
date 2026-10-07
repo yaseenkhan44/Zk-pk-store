@@ -1,0 +1,6 @@
+{
+  "name": "ZK.pk - Premium Watches Store Pakistan",
+  "description": "Shop luxury, chronograph, sports, and casual men's watches at ZK.pk. Premium timepieces with nationwide Cash on Delivery across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
